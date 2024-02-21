@@ -1,0 +1,17 @@
+.card-footer .pagination li a {
+    font-size: 14px;
+}
+
+.card-footer .pagination li .page-link svg {
+    width: 1em;
+    height: 1em;
+}
+
+.pagination li a {
+    font-size: 14px !important;
+}
+
+.pagination li .page-link svg {
+    width: 1em !important;
+    height: 1em !important;
+}
